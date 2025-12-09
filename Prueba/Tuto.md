@@ -4,3 +4,4 @@ cuadrados de los dos lados más cortos (catetos) es igual al cuadrado del lado m
 hipotenusa. Es una fórmula fundamental en geometría para encontrar the medida de un lado 
 desconocido en un triángulo rectángulo y tiene aplicaciones en construcción, navegación y 
 muchas otras áreas.
+Nueva rama creada :D
